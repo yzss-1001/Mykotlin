@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="account_ti" translatable="false">请输入用户账号</string>
+    <string name="password_ti" translatable="false">请输入用户密码</string>
+</resources>
